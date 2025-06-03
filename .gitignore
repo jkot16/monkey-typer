@@ -1,0 +1,38 @@
+# C++
+build/
+*.exe
+*.out
+*.o
+*.obj
+*.log
+*.dll
+*.pdb
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# macOS / Linux / Windows system files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+# CMake & Build
+build/
+cmake-build-debug/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+*.cmake
+*.ninja
+*.a
+*.dll
+*.exe
+
+# IDE
+.idea/
+.vscode/
