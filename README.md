@@ -21,6 +21,11 @@
 
 MonkeyTyper is a fast, responsive typing game built in C++20 with SFML. It lets you sharpen your typing in Practice mode or compete for high scores in Survival. With real-time feedback, custom themes, and a local leaderboard, it’s both functional and fun. Just clone, build, and play—no setup needed.
 
+## 🎥 Demo
+
+See **Monkey Typer** in action:  
+▶️ [Watch on YouTube](https://youtu.be/W_zqMINe5Lo)
+
 ---
 
 ## 2. Key Features
