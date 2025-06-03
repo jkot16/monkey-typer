@@ -7,15 +7,14 @@
 
 ## Table of Contents
 1. [🔎 Project Overview](#1-project-overview)  
-2. [🛠️ Key Features](#2-key-features)  
-3. [🧰 Tech Stack](#3-tech-stack)  
+2. [🧠 Key Features](#2-key-features)  
+3. [⚙️ Tech Stack](#3-tech-stack)  
 4. [🏗️ Architecture & Game Logic](#4-architecture--game-logic)  
 5. [📦 Installation & Usage](#5-installation--usage)  
 6. [🎮 Gameplay & Controls](#6-gameplay--controls)  
 7. [💾 Save System & Leaderboard](#7-save-system--leaderboard)  
 8. [🎨 Fonts, Sizes & Themes](#8-fonts-sizes--themes)  
-9. [📁 Assets & File Structure](#9-assets--file-structure)  
-10. [🛣️ Roadmap](#10-roadmap)
+9. [🛣️ Roadmap](#9-roadmap)
 
 ---
 ## 1. Project Overview
